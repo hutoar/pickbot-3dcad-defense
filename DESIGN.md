@@ -41,7 +41,7 @@
 |---|---|---|---|
 | 0 | `#/home` | 封面 | 左侧大标题 `C.meta.title`、副标题、选题/关键词标签、组号成员占位；右侧大图 `img/R1_hero_studio.jpg`（或 R4 果园图轮播，5 s 淡入淡出，R4→R2→R1）；底部 8 个统计卡 `C.stats`（大数字+单位+说明）；三个主按钮：「交互三维模型」→viewer，「播放演示视频」→media，「答辩幻灯片」→slides。再下方"汇报提纲"7 项 `C.outline`（编号方块+标题，点击跳对应路由）。 |
 | 1 | `#/requirements` | 一 作业问题与需求 | 驱动性问题要点框 `C.problem.question`；约束 5 条（两列卡片）；`C.problem.note` 灰色小字；12 项指标表 `C.indicators`（列：#、需求、技术指标、验证方法、结果、状态；状态 true 显示绿色"✔ 已验证"，false 显示橙色"待测"）；配图 `img/R2_work_scene.jpg`。 |
-| 2 | `#/scheme` | 二 总体方案 | 功能链图 `C.diagrams.chain`（宽幅）；方案比较表 `C.schemes.rows`（方案 A 列高亮）；评分表 `C.schemes.criteria`（列：准则、权重、A、B、C；最后加一行"加权总分"由数据计算 Σw·score，结果应为 8.05/7.00/5.55，若不一致说明数据有误，直接显示计算值）；雷达图 `C.diagrams.radar`；取舍理由要点框 `C.schemes.reasons`；技术路线图 `C.diagrams.route`。 |
+| 2 | `#/scheme` | 二 总体方案 | 功能链图 `C.diagrams.chain`（宽幅）；方案比较表 `C.schemes.rows`（方案 A 列高亮）；评分表 `C.schemes.criteria`（列：准则、权重、A、B、C；最后加一行"加权总分"由数据计算 Σw·score，结果应为 8.15/7.00/5.55，若不一致说明数据有误，直接显示计算值）；雷达图 `C.diagrams.radar`；取舍理由要点框 `C.schemes.reasons`；技术路线图 `C.diagrams.route`。 |
 | 3 | `#/mechanisms` | 三 关键机构 | 顶部三个标签页（剪叉升降 / 2R 关节臂 / 末端夹爪）对应 `C.mechanisms[i]`：左侧"计算依据"要点框列出 `formulas`（等宽字体渲染公式行），下方 `points` 列表；右侧图片 `img[]` 堆叠。每个标签页右上角按钮「在三维模型中查看」→ 跳转 viewer 并预设（lift: θ=55；arm: 视角 iso；gripper: 隔离"末端夹爪"组并聚焦）。 |
 | 4 | `#/control` | 四 感知与控制 | 传感器布置图 `img/C8_sensor_layout.jpg` + 传感器表 `C.sensors` + `C.sensor_note`；状态机图 `C.diagrams.state`；状态流程条（`C.states` 8 个状态横向箭头链，当前悬停高亮）；异常处置表 `C.anomalies`；控制流程图 `C.diagrams.flow`。 |
 | 5 | `#/viewer` | 五 交互三维模型 | **核心页面，详见 §4。** |
