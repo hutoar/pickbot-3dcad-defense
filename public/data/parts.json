@@ -1,0 +1,1843 @@
+{
+ "instances": [
+  {
+   "id": "inst_000",
+   "part": "Drive_Screw_Envelope",
+   "cn": "驱动丝杠",
+   "group": "剪叉升降",
+   "color": "#c7ccd6",
+   "gripper": false,
+   "wrist_static": false,
+   "inst": "drive_screw_envelope-1~默认"
+  },
+  {
+   "id": "inst_001",
+   "part": "Geared_Motor_Envelope",
+   "cn": "减速电机",
+   "group": "剪叉升降",
+   "color": "#474c54",
+   "gripper": false,
+   "wrist_static": false,
+   "inst": "geared_motor_envelope-1~默认"
+  },
+  {
+   "id": "inst_002",
+   "part": "Guide_Roller_Axle",
+   "cn": "导向滚轮轴",
+   "group": "剪叉升降",
+   "color": "#c7ccd6",
+   "gripper": false,
+   "wrist_static": false,
+   "inst": "guide_roller_axle-1~默认"
+  },
+  {
+   "id": "inst_003",
+   "part": "Guide_Roller_Axle",
+   "cn": "导向滚轮轴",
+   "group": "剪叉升降",
+   "color": "#c7ccd6",
+   "gripper": false,
+   "wrist_static": false,
+   "inst": "guide_roller_axle-2~默认"
+  },
+  {
+   "id": "inst_004",
+   "part": "Guide_Roller_Axle",
+   "cn": "导向滚轮轴",
+   "group": "剪叉升降",
+   "color": "#c7ccd6",
+   "gripper": false,
+   "wrist_static": false,
+   "inst": "guide_roller_axle-3~默认"
+  },
+  {
+   "id": "inst_005",
+   "part": "Guide_Roller_Axle",
+   "cn": "导向滚轮轴",
+   "group": "剪叉升降",
+   "color": "#c7ccd6",
+   "gripper": false,
+   "wrist_static": false,
+   "inst": "guide_roller_axle-6~默认"
+  },
+  {
+   "id": "inst_006",
+   "part": "Lift_Lower_Frame",
+   "cn": "升降下框",
+   "group": "剪叉升降",
+   "color": "#739e8c",
+   "gripper": false,
+   "wrist_static": false,
+   "inst": "lift_lower_frame-1~默认"
+  },
+  {
+   "id": "inst_007",
+   "part": "Lift_Upper_Platform",
+   "cn": "升降上平台",
+   "group": "升降平台",
+   "color": "#739e8c",
+   "gripper": false,
+   "wrist_static": false,
+   "inst": "lift_upper_platform-1~默认"
+  },
+  {
+   "id": "inst_008",
+   "part": "Pivot_Axle_D12",
+   "cn": "铰轴 D12",
+   "group": "剪叉升降",
+   "color": "#c7ccd6",
+   "gripper": false,
+   "wrist_static": false,
+   "inst": "pivot_axle_d12-2~默认"
+  },
+  {
+   "id": "inst_009",
+   "part": "Pivot_Axle_D12",
+   "cn": "铰轴 D12",
+   "group": "剪叉升降",
+   "color": "#c7ccd6",
+   "gripper": false,
+   "wrist_static": false,
+   "inst": "pivot_axle_d12-3~默认"
+  },
+  {
+   "id": "inst_010",
+   "part": "Pivot_Axle_D12",
+   "cn": "铰轴 D12",
+   "group": "剪叉升降",
+   "color": "#c7ccd6",
+   "gripper": false,
+   "wrist_static": false,
+   "inst": "pivot_axle_d12-4~默认"
+  },
+  {
+   "id": "inst_011",
+   "part": "Pivot_Axle_D12",
+   "cn": "铰轴 D12",
+   "group": "剪叉升降",
+   "color": "#c7ccd6",
+   "gripper": false,
+   "wrist_static": false,
+   "inst": "pivot_axle_d12-5~默认"
+  },
+  {
+   "id": "inst_012",
+   "part": "Robot_Arm_Base_Rebuilt",
+   "cn": "机械臂底座",
+   "group": "机械臂",
+   "color": "#b2bdcc",
+   "gripper": false,
+   "wrist_static": false,
+   "inst": "robot_arm_base_rebuilt-1~默认"
+  },
+  {
+   "id": "inst_013",
+   "part": "Robot_Camera_Mast_Only",
+   "cn": "视觉桅杆",
+   "group": "视觉桅杆",
+   "color": "#474c54",
+   "gripper": false,
+   "wrist_static": false,
+   "inst": "robot_camera_mast_only-1~默认"
+  },
+  {
+   "id": "inst_014",
+   "part": "Robot_Chassis_Only",
+   "cn": "底盘",
+   "group": "移动底盘",
+   "color": "#739e8c",
+   "gripper": false,
+   "wrist_static": false,
+   "inst": "robot_chassis_only-1~默认"
+  },
+  {
+   "id": "inst_015",
+   "part": "RobotRef_机械臂",
+   "cn": "大臂",
+   "group": "机械臂",
+   "color": "#dbdbd1",
+   "gripper": false,
+   "wrist_static": false,
+   "inst": "robotref_:械臂-1~默认"
+  },
+  {
+   "id": "inst_016",
+   "part": "RobotRef_机械臂2",
+   "cn": "小臂",
+   "group": "机械臂",
+   "color": "#dbdbd1",
+   "gripper": false,
+   "wrist_static": false,
+   "inst": "robotref_:械臂2-1~默认"
+  },
+  {
+   "id": "inst_017",
+   "part": "RobotRef_Camera_40mm_TopMount",
+   "cn": "RGB-D相机",
+   "group": "视觉桅杆",
+   "color": "#474c54",
+   "gripper": false,
+   "wrist_static": false,
+   "inst": "robotref_camera_40mm_topmount-1~默认"
+  },
+  {
+   "id": "inst_018",
+   "part": "RobotRef_旋转盘",
+   "cn": "腰部转盘",
+   "group": "机械臂",
+   "color": "#b2bdcc",
+   "gripper": false,
+   "wrist_static": false,
+   "inst": "robotref_旋转盘-1~默认"
+  },
+  {
+   "id": "inst_019",
+   "part": "RobotRef_小三角",
+   "cn": "轮侧小三角板",
+   "group": "移动底盘",
+   "color": "#b2bdcc",
+   "gripper": false,
+   "wrist_static": false,
+   "inst": "robotref_\u000f\t角-1~默认"
+  },
+  {
+   "id": "inst_020",
+   "part": "RobotRef_外轮",
+   "cn": "麦克纳姆轮毂",
+   "group": "移动底盘",
+   "color": "#474c54",
+   "gripper": false,
+   "wrist_static": false,
+   "inst": "robotref_\u0016轮-1~默认"
+  },
+  {
+   "id": "inst_021",
+   "part": "RobotRef_外轮",
+   "cn": "麦克纳姆轮毂",
+   "group": "移动底盘",
+   "color": "#474c54",
+   "gripper": false,
+   "wrist_static": false,
+   "inst": "robotref_\u0016轮-2~默认"
+  },
+  {
+   "id": "inst_022",
+   "part": "RobotRef_外轮",
+   "cn": "麦克纳姆轮毂",
+   "group": "移动底盘",
+   "color": "#474c54",
+   "gripper": false,
+   "wrist_static": false,
+   "inst": "robotref_\u0016轮-3~默认"
+  },
+  {
+   "id": "inst_023",
+   "part": "RobotRef_大三角",
+   "cn": "轮侧大三角板",
+   "group": "移动底盘",
+   "color": "#b2bdcc",
+   "gripper": false,
+   "wrist_static": false,
+   "inst": "robotref_'\t角-1~默认"
+  },
+  {
+   "id": "inst_024",
+   "part": "RobotRef_连杆",
+   "cn": "辊子支杆",
+   "group": "移动底盘",
+   "color": "#b2bdcc",
+   "gripper": false,
+   "wrist_static": false,
+   "inst": "robotref_连f-1~默认"
+  },
+  {
+   "id": "inst_025",
+   "part": "RobotRef_连杆",
+   "cn": "辊子支杆",
+   "group": "移动底盘",
+   "color": "#b2bdcc",
+   "gripper": false,
+   "wrist_static": false,
+   "inst": "robotref_连f-4~默认"
+  },
+  {
+   "id": "inst_026",
+   "part": "RobotRef_连杆",
+   "cn": "辊子支杆",
+   "group": "移动底盘",
+   "color": "#b2bdcc",
+   "gripper": false,
+   "wrist_static": false,
+   "inst": "robotref_连f-5~默认"
+  },
+  {
+   "id": "inst_027",
+   "part": "RobotRef_小三角",
+   "cn": "轮侧小三角板",
+   "group": "移动底盘",
+   "color": "#b2bdcc",
+   "gripper": false,
+   "wrist_static": false,
+   "inst": "robotref_\u000f\t角-1~默认"
+  },
+  {
+   "id": "inst_028",
+   "part": "RobotRef_外轮",
+   "cn": "麦克纳姆轮毂",
+   "group": "移动底盘",
+   "color": "#474c54",
+   "gripper": false,
+   "wrist_static": false,
+   "inst": "robotref_\u0016轮-1~默认"
+  },
+  {
+   "id": "inst_029",
+   "part": "RobotRef_外轮",
+   "cn": "麦克纳姆轮毂",
+   "group": "移动底盘",
+   "color": "#474c54",
+   "gripper": false,
+   "wrist_static": false,
+   "inst": "robotref_\u0016轮-2~默认"
+  },
+  {
+   "id": "inst_030",
+   "part": "RobotRef_外轮",
+   "cn": "麦克纳姆轮毂",
+   "group": "移动底盘",
+   "color": "#474c54",
+   "gripper": false,
+   "wrist_static": false,
+   "inst": "robotref_\u0016轮-3~默认"
+  },
+  {
+   "id": "inst_031",
+   "part": "RobotRef_大三角",
+   "cn": "轮侧大三角板",
+   "group": "移动底盘",
+   "color": "#b2bdcc",
+   "gripper": false,
+   "wrist_static": false,
+   "inst": "robotref_'\t角-1~默认"
+  },
+  {
+   "id": "inst_032",
+   "part": "RobotRef_连杆",
+   "cn": "辊子支杆",
+   "group": "移动底盘",
+   "color": "#b2bdcc",
+   "gripper": false,
+   "wrist_static": false,
+   "inst": "robotref_连f-1~默认"
+  },
+  {
+   "id": "inst_033",
+   "part": "RobotRef_连杆",
+   "cn": "辊子支杆",
+   "group": "移动底盘",
+   "color": "#b2bdcc",
+   "gripper": false,
+   "wrist_static": false,
+   "inst": "robotref_连f-4~默认"
+  },
+  {
+   "id": "inst_034",
+   "part": "RobotRef_连杆",
+   "cn": "辊子支杆",
+   "group": "移动底盘",
+   "color": "#b2bdcc",
+   "gripper": false,
+   "wrist_static": false,
+   "inst": "robotref_连f-5~默认"
+  },
+  {
+   "id": "inst_035",
+   "part": "RobotRef_小三角",
+   "cn": "轮侧小三角板",
+   "group": "移动底盘",
+   "color": "#b2bdcc",
+   "gripper": false,
+   "wrist_static": false,
+   "inst": "robotref_\u000f\t角-1~默认"
+  },
+  {
+   "id": "inst_036",
+   "part": "RobotRef_外轮",
+   "cn": "麦克纳姆轮毂",
+   "group": "移动底盘",
+   "color": "#474c54",
+   "gripper": false,
+   "wrist_static": false,
+   "inst": "robotref_\u0016轮-1~默认"
+  },
+  {
+   "id": "inst_037",
+   "part": "RobotRef_外轮",
+   "cn": "麦克纳姆轮毂",
+   "group": "移动底盘",
+   "color": "#474c54",
+   "gripper": false,
+   "wrist_static": false,
+   "inst": "robotref_\u0016轮-2~默认"
+  },
+  {
+   "id": "inst_038",
+   "part": "RobotRef_外轮",
+   "cn": "麦克纳姆轮毂",
+   "group": "移动底盘",
+   "color": "#474c54",
+   "gripper": false,
+   "wrist_static": false,
+   "inst": "robotref_\u0016轮-3~默认"
+  },
+  {
+   "id": "inst_039",
+   "part": "RobotRef_大三角",
+   "cn": "轮侧大三角板",
+   "group": "移动底盘",
+   "color": "#b2bdcc",
+   "gripper": false,
+   "wrist_static": false,
+   "inst": "robotref_'\t角-1~默认"
+  },
+  {
+   "id": "inst_040",
+   "part": "RobotRef_连杆",
+   "cn": "辊子支杆",
+   "group": "移动底盘",
+   "color": "#b2bdcc",
+   "gripper": false,
+   "wrist_static": false,
+   "inst": "robotref_连f-1~默认"
+  },
+  {
+   "id": "inst_041",
+   "part": "RobotRef_连杆",
+   "cn": "辊子支杆",
+   "group": "移动底盘",
+   "color": "#b2bdcc",
+   "gripper": false,
+   "wrist_static": false,
+   "inst": "robotref_连f-4~默认"
+  },
+  {
+   "id": "inst_042",
+   "part": "RobotRef_连杆",
+   "cn": "辊子支杆",
+   "group": "移动底盘",
+   "color": "#b2bdcc",
+   "gripper": false,
+   "wrist_static": false,
+   "inst": "robotref_连f-5~默认"
+  },
+  {
+   "id": "inst_043",
+   "part": "RobotRef_小三角",
+   "cn": "轮侧小三角板",
+   "group": "移动底盘",
+   "color": "#b2bdcc",
+   "gripper": false,
+   "wrist_static": false,
+   "inst": "robotref_\u000f\t角-1~默认"
+  },
+  {
+   "id": "inst_044",
+   "part": "RobotRef_外轮",
+   "cn": "麦克纳姆轮毂",
+   "group": "移动底盘",
+   "color": "#474c54",
+   "gripper": false,
+   "wrist_static": false,
+   "inst": "robotref_\u0016轮-1~默认"
+  },
+  {
+   "id": "inst_045",
+   "part": "RobotRef_外轮",
+   "cn": "麦克纳姆轮毂",
+   "group": "移动底盘",
+   "color": "#474c54",
+   "gripper": false,
+   "wrist_static": false,
+   "inst": "robotref_\u0016轮-2~默认"
+  },
+  {
+   "id": "inst_046",
+   "part": "RobotRef_外轮",
+   "cn": "麦克纳姆轮毂",
+   "group": "移动底盘",
+   "color": "#474c54",
+   "gripper": false,
+   "wrist_static": false,
+   "inst": "robotref_\u0016轮-3~默认"
+  },
+  {
+   "id": "inst_047",
+   "part": "RobotRef_大三角",
+   "cn": "轮侧大三角板",
+   "group": "移动底盘",
+   "color": "#b2bdcc",
+   "gripper": false,
+   "wrist_static": false,
+   "inst": "robotref_'\t角-1~默认"
+  },
+  {
+   "id": "inst_048",
+   "part": "RobotRef_连杆",
+   "cn": "辊子支杆",
+   "group": "移动底盘",
+   "color": "#b2bdcc",
+   "gripper": false,
+   "wrist_static": false,
+   "inst": "robotref_连f-1~默认"
+  },
+  {
+   "id": "inst_049",
+   "part": "RobotRef_连杆",
+   "cn": "辊子支杆",
+   "group": "移动底盘",
+   "color": "#b2bdcc",
+   "gripper": false,
+   "wrist_static": false,
+   "inst": "robotref_连f-4~默认"
+  },
+  {
+   "id": "inst_050",
+   "part": "RobotRef_连杆",
+   "cn": "辊子支杆",
+   "group": "移动底盘",
+   "color": "#b2bdcc",
+   "gripper": false,
+   "wrist_static": false,
+   "inst": "robotref_连f-5~默认"
+  },
+  {
+   "id": "inst_051",
+   "part": "Scissor_Inner_Pair",
+   "cn": "内剪叉臂",
+   "group": "剪叉升降",
+   "color": "#6b7380",
+   "gripper": false,
+   "wrist_static": false,
+   "inst": "scissor_inner_pair-1~默认"
+  },
+  {
+   "id": "inst_052",
+   "part": "Scissor_Inner_Pair",
+   "cn": "内剪叉臂",
+   "group": "剪叉升降",
+   "color": "#6b7380",
+   "gripper": false,
+   "wrist_static": false,
+   "inst": "scissor_inner_pair-2~默认"
+  },
+  {
+   "id": "inst_053",
+   "part": "Scissor_Outer_Pair",
+   "cn": "外剪叉臂",
+   "group": "剪叉升降",
+   "color": "#6b7380",
+   "gripper": false,
+   "wrist_static": false,
+   "inst": "scissor_outer_pair-1~默认"
+  },
+  {
+   "id": "inst_054",
+   "part": "Scissor_Outer_Pair",
+   "cn": "外剪叉臂",
+   "group": "剪叉升降",
+   "color": "#6b7380",
+   "gripper": false,
+   "wrist_static": false,
+   "inst": "scissor_outer_pair-2~默认"
+  },
+  {
+   "id": "inst_055",
+   "part": "Screw_Bearing_Block",
+   "cn": "丝杠轴承座",
+   "group": "剪叉升降",
+   "color": "#db8538",
+   "gripper": false,
+   "wrist_static": false,
+   "inst": "screw_bearing_block-1~默认"
+  },
+  {
+   "id": "inst_056",
+   "part": "Screw_Bearing_Block",
+   "cn": "丝杠轴承座",
+   "group": "剪叉升降",
+   "color": "#db8538",
+   "gripper": false,
+   "wrist_static": false,
+   "inst": "screw_bearing_block-2~默认"
+  },
+  {
+   "id": "inst_057",
+   "part": "Slider_Nut_Block",
+   "cn": "滑块螺母",
+   "group": "剪叉升降",
+   "color": "#db8538",
+   "gripper": false,
+   "wrist_static": false,
+   "inst": "slider_nut_block-1~默认"
+  },
+  {
+   "id": "inst_058",
+   "part": "Grip_Arm_Adapter",
+   "cn": "臂端转接座",
+   "group": "末端夹爪",
+   "color": "#b2bdcc",
+   "gripper": true,
+   "wrist_static": true,
+   "inst": "grip_arm_adapter-1~默认"
+  },
+  {
+   "id": "inst_059",
+   "part": "Grip_Arm_Mount_Pin",
+   "cn": "末端安装销 φ5",
+   "group": "末端夹爪",
+   "color": "#c7ccd6",
+   "gripper": true,
+   "wrist_static": true,
+   "inst": "grip_arm_mount_pin-1~默认"
+  },
+  {
+   "id": "inst_060",
+   "part": "Grip_Bush_Front",
+   "cn": "前衬套",
+   "group": "末端夹爪",
+   "color": "#c7ccd6",
+   "gripper": true,
+   "wrist_static": false,
+   "inst": "grip_bush_front-1~默认"
+  },
+  {
+   "id": "inst_061",
+   "part": "Grip_Bush_Front",
+   "cn": "前衬套",
+   "group": "末端夹爪",
+   "color": "#c7ccd6",
+   "gripper": true,
+   "wrist_static": false,
+   "inst": "grip_bush_front-2~默认"
+  },
+  {
+   "id": "inst_062",
+   "part": "Grip_Bush_Rear",
+   "cn": "后衬套",
+   "group": "末端夹爪",
+   "color": "#c7ccd6",
+   "gripper": true,
+   "wrist_static": false,
+   "inst": "grip_bush_rear-1~默认"
+  },
+  {
+   "id": "inst_063",
+   "part": "Grip_Bush_Rear",
+   "cn": "后衬套",
+   "group": "末端夹爪",
+   "color": "#c7ccd6",
+   "gripper": true,
+   "wrist_static": false,
+   "inst": "grip_bush_rear-2~默认"
+  },
+  {
+   "id": "inst_064",
+   "part": "Grip_Coupler_Pin",
+   "cn": "指端铰销",
+   "group": "末端夹爪",
+   "color": "#c7ccd6",
+   "gripper": true,
+   "wrist_static": false,
+   "inst": "grip_coupler_pin-1~默认"
+  },
+  {
+   "id": "inst_065",
+   "part": "Grip_Coupler_Pin",
+   "cn": "指端铰销",
+   "group": "末端夹爪",
+   "color": "#c7ccd6",
+   "gripper": true,
+   "wrist_static": false,
+   "inst": "grip_coupler_pin-2~默认"
+  },
+  {
+   "id": "inst_066",
+   "part": "Grip_Drive_Link70",
+   "cn": "主动连杆 L70",
+   "group": "末端夹爪",
+   "color": "#6b7380",
+   "gripper": true,
+   "wrist_static": false,
+   "inst": "grip_drive_link70-1~默认"
+  },
+  {
+   "id": "inst_067",
+   "part": "Grip_Drive_Link70",
+   "cn": "主动连杆 L70",
+   "group": "末端夹爪",
+   "color": "#6b7380",
+   "gripper": true,
+   "wrist_static": false,
+   "inst": "grip_drive_link70-2~默认"
+  },
+  {
+   "id": "inst_068",
+   "part": "Grip_Finger_Left",
+   "cn": "左夹指",
+   "group": "末端夹爪",
+   "color": "#788fb2",
+   "gripper": true,
+   "wrist_static": false,
+   "inst": "grip_finger_left-1~默认"
+  },
+  {
+   "id": "inst_069",
+   "part": "Grip_Finger_Pin",
+   "cn": "夹指销",
+   "group": "末端夹爪",
+   "color": "#c7ccd6",
+   "gripper": true,
+   "wrist_static": false,
+   "inst": "grip_finger_pin-1~默认"
+  },
+  {
+   "id": "inst_070",
+   "part": "Grip_Finger_Pin",
+   "cn": "夹指销",
+   "group": "末端夹爪",
+   "color": "#c7ccd6",
+   "gripper": true,
+   "wrist_static": false,
+   "inst": "grip_finger_pin-2~默认"
+  },
+  {
+   "id": "inst_071",
+   "part": "Grip_Finger_Right",
+   "cn": "右夹指",
+   "group": "末端夹爪",
+   "color": "#788fb2",
+   "gripper": true,
+   "wrist_static": false,
+   "inst": "grip_finger_right-1~默认"
+  },
+  {
+   "id": "inst_072",
+   "part": "Grip_Follower_Link70",
+   "cn": "从动连杆 L70",
+   "group": "末端夹爪",
+   "color": "#6b7380",
+   "gripper": true,
+   "wrist_static": false,
+   "inst": "grip_follower_link70-1~默认"
+  },
+  {
+   "id": "inst_073",
+   "part": "Grip_Follower_Link70",
+   "cn": "从动连杆 L70",
+   "group": "末端夹爪",
+   "color": "#6b7380",
+   "gripper": true,
+   "wrist_static": false,
+   "inst": "grip_follower_link70-2~默认"
+  },
+  {
+   "id": "inst_074",
+   "part": "Grip_Ground_Pin",
+   "cn": "机架销轴",
+   "group": "末端夹爪",
+   "color": "#c7ccd6",
+   "gripper": true,
+   "wrist_static": false,
+   "inst": "grip_ground_pin-1~默认"
+  },
+  {
+   "id": "inst_075",
+   "part": "Grip_Ground_Pin",
+   "cn": "机架销轴",
+   "group": "末端夹爪",
+   "color": "#c7ccd6",
+   "gripper": true,
+   "wrist_static": false,
+   "inst": "grip_ground_pin-2~默认"
+  },
+  {
+   "id": "inst_076",
+   "part": "Grip_Ground_Pin",
+   "cn": "机架销轴",
+   "group": "末端夹爪",
+   "color": "#c7ccd6",
+   "gripper": true,
+   "wrist_static": false,
+   "inst": "grip_ground_pin-3~默认"
+  },
+  {
+   "id": "inst_077",
+   "part": "Grip_Ground_Pin",
+   "cn": "机架销轴",
+   "group": "末端夹爪",
+   "color": "#c7ccd6",
+   "gripper": true,
+   "wrist_static": false,
+   "inst": "grip_ground_pin-4~默认"
+  },
+  {
+   "id": "inst_078",
+   "part": "Grip_Pad_Left",
+   "cn": "左软垫",
+   "group": "末端夹爪",
+   "color": "#73ad59",
+   "gripper": true,
+   "wrist_static": false,
+   "inst": "grip_pad_left-1~默认"
+  },
+  {
+   "id": "inst_079",
+   "part": "Grip_Pad_Right",
+   "cn": "右软垫",
+   "group": "末端夹爪",
+   "color": "#73ad59",
+   "gripper": true,
+   "wrist_static": false,
+   "inst": "grip_pad_right-1~默认"
+  },
+  {
+   "id": "inst_080",
+   "part": "Grip_Palm_Front",
+   "cn": "前掌板",
+   "group": "末端夹爪",
+   "color": "#6b7380",
+   "gripper": true,
+   "wrist_static": false,
+   "inst": "grip_palm_front-1~默认"
+  },
+  {
+   "id": "inst_081",
+   "part": "Grip_Palm_Rear",
+   "cn": "后掌板",
+   "group": "末端夹爪",
+   "color": "#6b7380",
+   "gripper": true,
+   "wrist_static": false,
+   "inst": "grip_palm_rear-1~默认"
+  },
+  {
+   "id": "inst_082",
+   "part": "Grip_Rotor_Bridge",
+   "cn": "转子桥接块",
+   "group": "末端夹爪",
+   "color": "#b2bdcc",
+   "gripper": true,
+   "wrist_static": false,
+   "inst": "grip_rotor_bridge-1~默认"
+  },
+  {
+   "id": "inst_083",
+   "part": "Grip_Stator_Screw_Head",
+   "cn": "定子螺钉头",
+   "group": "末端夹爪",
+   "color": "#c7ccd6",
+   "gripper": true,
+   "wrist_static": true,
+   "inst": "grip_stator_screw_head-1~默认"
+  },
+  {
+   "id": "inst_084",
+   "part": "Grip_Stator_Screw_Head",
+   "cn": "定子螺钉头",
+   "group": "末端夹爪",
+   "color": "#c7ccd6",
+   "gripper": true,
+   "wrist_static": true,
+   "inst": "grip_stator_screw_head-2~默认"
+  },
+  {
+   "id": "inst_085",
+   "part": "Grip_Stator_Screw_Shank",
+   "cn": "定子螺钉杆",
+   "group": "末端夹爪",
+   "color": "#c7ccd6",
+   "gripper": true,
+   "wrist_static": true,
+   "inst": "grip_stator_screw_shank-1~默认"
+  },
+  {
+   "id": "inst_086",
+   "part": "Grip_Stator_Screw_Shank",
+   "cn": "定子螺钉杆",
+   "group": "末端夹爪",
+   "color": "#c7ccd6",
+   "gripper": true,
+   "wrist_static": true,
+   "inst": "grip_stator_screw_shank-2~默认"
+  },
+  {
+   "id": "inst_087",
+   "part": "Grip_Sync_Gear_m1_5_Z32",
+   "cn": "同步齿轮 m1.5 Z32",
+   "group": "末端夹爪",
+   "color": "#cca859",
+   "gripper": true,
+   "wrist_static": false,
+   "inst": "grip_sync_gear_m1_5_z32-1~默认"
+  },
+  {
+   "id": "inst_088",
+   "part": "Grip_Sync_Gear_m1_5_Z32",
+   "cn": "同步齿轮 m1.5 Z32",
+   "group": "末端夹爪",
+   "color": "#cca859",
+   "gripper": true,
+   "wrist_static": false,
+   "inst": "grip_sync_gear_m1_5_z32-2~默认"
+  },
+  {
+   "id": "inst_089",
+   "part": "Grip_Wrist_Bearing",
+   "cn": "腕部轴承",
+   "group": "末端夹爪",
+   "color": "#c7ccd6",
+   "gripper": true,
+   "wrist_static": true,
+   "inst": "grip_wrist_bearing-1~默认"
+  },
+  {
+   "id": "inst_090",
+   "part": "Grip_Wrist_Bearing",
+   "cn": "腕部轴承",
+   "group": "末端夹爪",
+   "color": "#c7ccd6",
+   "gripper": true,
+   "wrist_static": true,
+   "inst": "grip_wrist_bearing-2~默认"
+  },
+  {
+   "id": "inst_091",
+   "part": "Grip_Wrist_Housing",
+   "cn": "腕部壳体",
+   "group": "末端夹爪",
+   "color": "#474c54",
+   "gripper": true,
+   "wrist_static": true,
+   "inst": "grip_wrist_housing-1~默认"
+  },
+  {
+   "id": "inst_092",
+   "part": "Grip_Wrist_Rotor",
+   "cn": "腕部转子",
+   "group": "末端夹爪",
+   "color": "#b2bdcc",
+   "gripper": true,
+   "wrist_static": false,
+   "inst": "grip_wrist_rotor-1~默认"
+  },
+  {
+   "id": "inst_093",
+   "part": "Grip_Wrist_Spacer",
+   "cn": "腕部隔圈",
+   "group": "末端夹爪",
+   "color": "#c7ccd6",
+   "gripper": true,
+   "wrist_static": true,
+   "inst": "grip_wrist_spacer-1~默认"
+  },
+  {
+   "id": "inst_094",
+   "part": "Grip_Wrist_Spacer",
+   "cn": "腕部隔圈",
+   "group": "末端夹爪",
+   "color": "#c7ccd6",
+   "gripper": true,
+   "wrist_static": true,
+   "inst": "grip_wrist_spacer-2~默认"
+  }
+ ],
+ "parts": [
+  {
+   "part": "Drive_Screw_Envelope",
+   "cn": "驱动丝杠",
+   "group": "剪叉升降",
+   "qty": 1,
+   "instances": [
+    "inst_000"
+   ],
+   "material": "45 钢 / 轴承钢",
+   "volume_cm3": 20.67,
+   "mass_g": 162.3,
+   "bbox_mm": [
+    8.0,
+    8.0,
+    415.0
+   ],
+   "thumb": "img/parts/Drive_Screw_Envelope.jpg",
+   "file": "Drive_Screw_Envelope.SLDPRT"
+  },
+  {
+   "part": "Geared_Motor_Envelope",
+   "cn": "减速电机",
+   "group": "剪叉升降",
+   "qty": 1,
+   "instances": [
+    "inst_001"
+   ],
+   "material": "PA12 / ABS",
+   "volume_cm3": 32.79,
+   "mass_g": 42.6,
+   "bbox_mm": [
+    30.0,
+    27.0,
+    45.0
+   ],
+   "thumb": "img/parts/Geared_Motor_Envelope.jpg",
+   "file": "Geared_Motor_Envelope.SLDPRT"
+  },
+  {
+   "part": "Guide_Roller_Axle",
+   "cn": "导向滚轮轴",
+   "group": "剪叉升降",
+   "qty": 4,
+   "instances": [
+    "inst_002",
+    "inst_003",
+    "inst_004",
+    "inst_005"
+   ],
+   "material": "45 钢 / 轴承钢",
+   "volume_cm3": 36.63,
+   "mass_g": 287.5,
+   "bbox_mm": [
+    20.0,
+    20.0,
+    298.0
+   ],
+   "thumb": "img/parts/Guide_Roller_Axle.jpg",
+   "file": "Guide_Roller_Axle.SLDPRT"
+  },
+  {
+   "part": "Lift_Lower_Frame",
+   "cn": "升降下框",
+   "group": "剪叉升降",
+   "qty": 1,
+   "instances": [
+    "inst_006"
+   ],
+   "material": "6061-T6 铝合金",
+   "volume_cm3": 1168.71,
+   "mass_g": 3155.5,
+   "bbox_mm": [
+    480.0,
+    45.0,
+    280.0
+   ],
+   "thumb": "img/parts/Lift_Lower_Frame.jpg",
+   "file": "Lift_Lower_Frame.SLDPRT"
+  },
+  {
+   "part": "Lift_Upper_Platform",
+   "cn": "升降上平台",
+   "group": "升降平台",
+   "qty": 1,
+   "instances": [
+    "inst_007"
+   ],
+   "material": "6061-T6 铝合金",
+   "volume_cm3": 1446.12,
+   "mass_g": 3904.5,
+   "bbox_mm": [
+    480.0,
+    48.0,
+    280.0
+   ],
+   "thumb": "img/parts/Lift_Upper_Platform.jpg",
+   "file": "Lift_Upper_Platform.SLDPRT"
+  },
+  {
+   "part": "Pivot_Axle_D12",
+   "cn": "铰轴 D12",
+   "group": "剪叉升降",
+   "qty": 4,
+   "instances": [
+    "inst_008",
+    "inst_009",
+    "inst_010",
+    "inst_011"
+   ],
+   "material": "45 钢 / 轴承钢",
+   "volume_cm3": 29.08,
+   "mass_g": 228.3,
+   "bbox_mm": [
+    20.0,
+    20.0,
+    252.0
+   ],
+   "thumb": "img/parts/Pivot_Axle_D12.jpg",
+   "file": "Pivot_Axle_D12.SLDPRT"
+  },
+  {
+   "part": "Robot_Arm_Base_Rebuilt",
+   "cn": "机械臂底座",
+   "group": "机械臂",
+   "qty": 1,
+   "instances": [
+    "inst_012"
+   ],
+   "material": "6061-T6 铝合金",
+   "volume_cm3": 168.8,
+   "mass_g": 455.8,
+   "bbox_mm": [
+    120.0,
+    85.0,
+    120.0
+   ],
+   "thumb": "img/parts/Robot_Arm_Base_Rebuilt.jpg",
+   "file": "Robot_Arm_Base_Rebuilt.SLDPRT"
+  },
+  {
+   "part": "Robot_Camera_Mast_Only",
+   "cn": "视觉桅杆",
+   "group": "视觉桅杆",
+   "qty": 1,
+   "instances": [
+    "inst_013"
+   ],
+   "material": "PA12 / ABS",
+   "volume_cm3": 1106.62,
+   "mass_g": 1438.6,
+   "bbox_mm": [
+    134.4,
+    240.0,
+    80.0
+   ],
+   "thumb": "img/parts/Robot_Camera_Mast_Only.jpg",
+   "file": "Robot_Camera_Mast_Only.SLDPRT"
+  },
+  {
+   "part": "Robot_Chassis_Only",
+   "cn": "底盘",
+   "group": "移动底盘",
+   "qty": 1,
+   "instances": [
+    "inst_014"
+   ],
+   "material": "6061-T6 铝合金",
+   "volume_cm3": 3032.36,
+   "mass_g": 8187.4,
+   "bbox_mm": [
+    500.0,
+    60.0,
+    300.0
+   ],
+   "thumb": "img/parts/Robot_Chassis_Only.jpg",
+   "file": "Robot_Chassis_Only.SLDPRT"
+  },
+  {
+   "part": "RobotRef_机械臂",
+   "cn": "大臂",
+   "group": "机械臂",
+   "qty": 1,
+   "instances": [
+    "inst_015"
+   ],
+   "material": "6061-T6 铝合金",
+   "volume_cm3": 268.45,
+   "mass_g": 724.8,
+   "bbox_mm": [
+    300.0,
+    65.0,
+    25.0
+   ],
+   "thumb": "img/parts/RobotRef_机械臂.jpg",
+   "file": "RobotRef_机械臂.SLDPRT"
+  },
+  {
+   "part": "RobotRef_机械臂2",
+   "cn": "小臂",
+   "group": "机械臂",
+   "qty": 1,
+   "instances": [
+    "inst_016"
+   ],
+   "material": "6061-T6 铝合金",
+   "volume_cm3": 175.94,
+   "mass_g": 475.0,
+   "bbox_mm": [
+    250.0,
+    55.0,
+    25.0
+   ],
+   "thumb": "img/parts/RobotRef_机械臂2.jpg",
+   "file": "RobotRef_机械臂2.SLDPRT"
+  },
+  {
+   "part": "RobotRef_Camera_40mm_TopMount",
+   "cn": "RGB-D相机",
+   "group": "视觉桅杆",
+   "qty": 1,
+   "instances": [
+    "inst_017"
+   ],
+   "material": "PA12 / ABS",
+   "volume_cm3": 43.64,
+   "mass_g": 56.7,
+   "bbox_mm": [
+    52.6,
+    52.3,
+    38.0
+   ],
+   "thumb": "img/parts/RobotRef_Camera_40mm_TopMount.jpg",
+   "file": "RobotRef_Camera_40mm_TopMount.SLDPRT"
+  },
+  {
+   "part": "RobotRef_旋转盘",
+   "cn": "腰部转盘",
+   "group": "机械臂",
+   "qty": 1,
+   "instances": [
+    "inst_018"
+   ],
+   "material": "6061-T6 铝合金",
+   "volume_cm3": 62.01,
+   "mass_g": 167.4,
+   "bbox_mm": [
+    70.0,
+    40.0,
+    70.0
+   ],
+   "thumb": "img/parts/RobotRef_旋转盘.jpg",
+   "file": "RobotRef_旋转盘.SLDPRT"
+  },
+  {
+   "part": "RobotRef_小三角",
+   "cn": "轮侧小三角板",
+   "group": "移动底盘",
+   "qty": 4,
+   "instances": [
+    "inst_019",
+    "inst_027",
+    "inst_035",
+    "inst_043"
+   ],
+   "material": "6061-T6 铝合金",
+   "volume_cm3": 3.65,
+   "mass_g": 9.8,
+   "bbox_mm": [
+    53.4,
+    46.7,
+    3.0
+   ],
+   "thumb": "img/parts/RobotRef_小三角.jpg",
+   "file": "RobotRef_小三角.SLDPRT"
+  },
+  {
+   "part": "RobotRef_外轮",
+   "cn": "麦克纳姆轮毂",
+   "group": "移动底盘",
+   "qty": 12,
+   "instances": [
+    "inst_020",
+    "inst_021",
+    "inst_022",
+    "inst_028",
+    "inst_029",
+    "inst_030",
+    "inst_036",
+    "inst_037",
+    "inst_038",
+    "inst_044",
+    "inst_045",
+    "inst_046"
+   ],
+   "material": "PA12 / ABS",
+   "volume_cm3": 3.06,
+   "mass_g": 4.0,
+   "bbox_mm": [
+    93.2,
+    29.0,
+    5.0
+   ],
+   "thumb": "img/parts/RobotRef_外轮.jpg",
+   "file": "RobotRef_外轮.SLDPRT"
+  },
+  {
+   "part": "RobotRef_大三角",
+   "cn": "轮侧大三角板",
+   "group": "移动底盘",
+   "qty": 4,
+   "instances": [
+    "inst_023",
+    "inst_031",
+    "inst_039",
+    "inst_047"
+   ],
+   "material": "6061-T6 铝合金",
+   "volume_cm3": 9.67,
+   "mass_g": 26.1,
+   "bbox_mm": [
+    92.3,
+    80.5,
+    3.0
+   ],
+   "thumb": "img/parts/RobotRef_大三角.jpg",
+   "file": "RobotRef_大三角.SLDPRT"
+  },
+  {
+   "part": "RobotRef_连杆",
+   "cn": "辊子支杆",
+   "group": "移动底盘",
+   "qty": 12,
+   "instances": [
+    "inst_024",
+    "inst_025",
+    "inst_026",
+    "inst_032",
+    "inst_033",
+    "inst_034",
+    "inst_040",
+    "inst_041",
+    "inst_042",
+    "inst_048",
+    "inst_049",
+    "inst_050"
+   ],
+   "material": "6061-T6 铝合金",
+   "volume_cm3": 2.15,
+   "mass_g": 5.8,
+   "bbox_mm": [
+    49.0,
+    10.0,
+    5.0
+   ],
+   "thumb": "img/parts/RobotRef_连杆.jpg",
+   "file": "RobotRef_连杆.SLDPRT"
+  },
+  {
+   "part": "Scissor_Inner_Pair",
+   "cn": "内剪叉臂",
+   "group": "剪叉升降",
+   "qty": 2,
+   "instances": [
+    "inst_051",
+    "inst_052"
+   ],
+   "material": "6061-T6 铝合金（阳极氧化）",
+   "volume_cm3": 180.93,
+   "mass_g": 488.5,
+   "bbox_mm": [
+    390.0,
+    30.0,
+    210.0
+   ],
+   "thumb": "img/parts/Scissor_Inner_Pair.jpg",
+   "file": "Scissor_Inner_Pair.SLDPRT"
+  },
+  {
+   "part": "Scissor_Outer_Pair",
+   "cn": "外剪叉臂",
+   "group": "剪叉升降",
+   "qty": 2,
+   "instances": [
+    "inst_053",
+    "inst_054"
+   ],
+   "material": "6061-T6 铝合金（阳极氧化）",
+   "volume_cm3": 180.93,
+   "mass_g": 488.5,
+   "bbox_mm": [
+    390.0,
+    30.0,
+    234.0
+   ],
+   "thumb": "img/parts/Scissor_Outer_Pair.jpg",
+   "file": "Scissor_Outer_Pair.SLDPRT"
+  },
+  {
+   "part": "Screw_Bearing_Block",
+   "cn": "丝杠轴承座",
+   "group": "剪叉升降",
+   "qty": 2,
+   "instances": [
+    "inst_055",
+    "inst_056"
+   ],
+   "material": "POM",
+   "volume_cm3": 13.25,
+   "mass_g": 18.7,
+   "bbox_mm": [
+    20.0,
+    31.0,
+    24.0
+   ],
+   "thumb": "img/parts/Screw_Bearing_Block.jpg",
+   "file": "Screw_Bearing_Block.SLDPRT"
+  },
+  {
+   "part": "Slider_Nut_Block",
+   "cn": "滑块螺母",
+   "group": "剪叉升降",
+   "qty": 1,
+   "instances": [
+    "inst_057"
+   ],
+   "material": "POM",
+   "volume_cm3": 9.87,
+   "mass_g": 13.9,
+   "bbox_mm": [
+    24.0,
+    27.5,
+    20.0
+   ],
+   "thumb": "img/parts/Slider_Nut_Block.jpg",
+   "file": "Slider_Nut_Block.SLDPRT"
+  },
+  {
+   "part": "Grip_Arm_Adapter",
+   "cn": "臂端转接座",
+   "group": "末端夹爪",
+   "qty": 1,
+   "instances": [
+    "inst_058"
+   ],
+   "material": "6061-T6 铝合金",
+   "volume_cm3": 42.65,
+   "mass_g": 115.1,
+   "bbox_mm": [
+    62.0,
+    56.0,
+    32.0
+   ],
+   "thumb": "img/parts/Grip_Arm_Adapter.jpg",
+   "file": "Grip_Arm_Adapter.SLDPRT"
+  },
+  {
+   "part": "Grip_Arm_Mount_Pin",
+   "cn": "末端安装销 φ5",
+   "group": "末端夹爪",
+   "qty": 1,
+   "instances": [
+    "inst_059"
+   ],
+   "material": "45 钢 / 轴承钢",
+   "volume_cm3": 1.33,
+   "mass_g": 10.4,
+   "bbox_mm": [
+    9.0,
+    9.0,
+    59.0
+   ],
+   "thumb": "img/parts/Grip_Arm_Mount_Pin.jpg",
+   "file": "Grip_Arm_Mount_Pin.SLDPRT"
+  },
+  {
+   "part": "Grip_Bush_Front",
+   "cn": "前衬套",
+   "group": "末端夹爪",
+   "qty": 2,
+   "instances": [
+    "inst_060",
+    "inst_061"
+   ],
+   "material": "45 钢 / 轴承钢",
+   "volume_cm3": 0.19,
+   "mass_g": 1.5,
+   "bbox_mm": [
+    10.0,
+    10.0,
+    4.0
+   ],
+   "thumb": "img/parts/Grip_Bush_Front.jpg",
+   "file": "Grip_Bush_Front.SLDPRT"
+  },
+  {
+   "part": "Grip_Bush_Rear",
+   "cn": "后衬套",
+   "group": "末端夹爪",
+   "qty": 2,
+   "instances": [
+    "inst_062",
+    "inst_063"
+   ],
+   "material": "45 钢 / 轴承钢",
+   "volume_cm3": 0.24,
+   "mass_g": 1.9,
+   "bbox_mm": [
+    10.0,
+    10.0,
+    5.0
+   ],
+   "thumb": "img/parts/Grip_Bush_Rear.jpg",
+   "file": "Grip_Bush_Rear.SLDPRT"
+  },
+  {
+   "part": "Grip_Coupler_Pin",
+   "cn": "指端铰销",
+   "group": "末端夹爪",
+   "qty": 2,
+   "instances": [
+    "inst_064",
+    "inst_065"
+   ],
+   "material": "45 钢 / 轴承钢",
+   "volume_cm3": 0.68,
+   "mass_g": 5.3,
+   "bbox_mm": [
+    10.0,
+    10.0,
+    17.0
+   ],
+   "thumb": "img/parts/Grip_Coupler_Pin.jpg",
+   "file": "Grip_Coupler_Pin.SLDPRT"
+  },
+  {
+   "part": "Grip_Drive_Link70",
+   "cn": "主动连杆 L70",
+   "group": "末端夹爪",
+   "qty": 2,
+   "instances": [
+    "inst_066",
+    "inst_067"
+   ],
+   "material": "6061-T6 铝合金（阳极氧化）",
+   "volume_cm3": 4.53,
+   "mass_g": 12.2,
+   "bbox_mm": [
+    82.0,
+    12.0,
+    5.0
+   ],
+   "thumb": "img/parts/Grip_Drive_Link70.jpg",
+   "file": "Grip_Drive_Link70.SLDPRT"
+  },
+  {
+   "part": "Grip_Finger_Left",
+   "cn": "左夹指",
+   "group": "末端夹爪",
+   "qty": 1,
+   "instances": [
+    "inst_068"
+   ],
+   "material": "6061-T6 铝合金",
+   "volume_cm3": 11.99,
+   "mass_g": 32.4,
+   "bbox_mm": [
+    28.0,
+    121.0,
+    7.0
+   ],
+   "thumb": "img/parts/Grip_Finger_Left.jpg",
+   "file": "Grip_Finger_Left.SLDPRT"
+  },
+  {
+   "part": "Grip_Finger_Pin",
+   "cn": "夹指销",
+   "group": "末端夹爪",
+   "qty": 2,
+   "instances": [
+    "inst_069",
+    "inst_070"
+   ],
+   "material": "45 钢 / 轴承钢",
+   "volume_cm3": 0.67,
+   "mass_g": 5.2,
+   "bbox_mm": [
+    10.0,
+    10.0,
+    16.5
+   ],
+   "thumb": "img/parts/Grip_Finger_Pin.jpg",
+   "file": "Grip_Finger_Pin.SLDPRT"
+  },
+  {
+   "part": "Grip_Finger_Right",
+   "cn": "右夹指",
+   "group": "末端夹爪",
+   "qty": 1,
+   "instances": [
+    "inst_071"
+   ],
+   "material": "6061-T6 铝合金",
+   "volume_cm3": 11.99,
+   "mass_g": 32.4,
+   "bbox_mm": [
+    28.0,
+    121.0,
+    7.0
+   ],
+   "thumb": "img/parts/Grip_Finger_Right.jpg",
+   "file": "Grip_Finger_Right.SLDPRT"
+  },
+  {
+   "part": "Grip_Follower_Link70",
+   "cn": "从动连杆 L70",
+   "group": "末端夹爪",
+   "qty": 2,
+   "instances": [
+    "inst_072",
+    "inst_073"
+   ],
+   "material": "6061-T6 铝合金（阳极氧化）",
+   "volume_cm3": 3.62,
+   "mass_g": 9.8,
+   "bbox_mm": [
+    82.0,
+    12.0,
+    4.0
+   ],
+   "thumb": "img/parts/Grip_Follower_Link70.jpg",
+   "file": "Grip_Follower_Link70.SLDPRT"
+  },
+  {
+   "part": "Grip_Ground_Pin",
+   "cn": "机架销轴",
+   "group": "末端夹爪",
+   "qty": 4,
+   "instances": [
+    "inst_074",
+    "inst_075",
+    "inst_076",
+    "inst_077"
+   ],
+   "material": "45 钢 / 轴承钢",
+   "volume_cm3": 1.45,
+   "mass_g": 11.4,
+   "bbox_mm": [
+    10.0,
+    10.0,
+    44.5
+   ],
+   "thumb": "img/parts/Grip_Ground_Pin.jpg",
+   "file": "Grip_Ground_Pin.SLDPRT"
+  },
+  {
+   "part": "Grip_Pad_Left",
+   "cn": "左软垫",
+   "group": "末端夹爪",
+   "qty": 1,
+   "instances": [
+    "inst_078"
+   ],
+   "material": "TPU 85A 软垫",
+   "volume_cm3": 1.68,
+   "mass_g": 1.9,
+   "bbox_mm": [
+    3.0,
+    35.0,
+    16.0
+   ],
+   "thumb": "img/parts/Grip_Pad_Left.jpg",
+   "file": "Grip_Pad_Left.SLDPRT"
+  },
+  {
+   "part": "Grip_Pad_Right",
+   "cn": "右软垫",
+   "group": "末端夹爪",
+   "qty": 1,
+   "instances": [
+    "inst_079"
+   ],
+   "material": "TPU 85A 软垫",
+   "volume_cm3": 1.68,
+   "mass_g": 1.9,
+   "bbox_mm": [
+    3.0,
+    35.0,
+    16.0
+   ],
+   "thumb": "img/parts/Grip_Pad_Right.jpg",
+   "file": "Grip_Pad_Right.SLDPRT"
+  },
+  {
+   "part": "Grip_Palm_Front",
+   "cn": "前掌板",
+   "group": "末端夹爪",
+   "qty": 1,
+   "instances": [
+    "inst_080"
+   ],
+   "material": "6061-T6 铝合金（阳极氧化）",
+   "volume_cm3": 23.59,
+   "mass_g": 63.7,
+   "bbox_mm": [
+    80.0,
+    117.0,
+    4.0
+   ],
+   "thumb": "img/parts/Grip_Palm_Front.jpg",
+   "file": "Grip_Palm_Front.SLDPRT"
+  },
+  {
+   "part": "Grip_Palm_Rear",
+   "cn": "后掌板",
+   "group": "末端夹爪",
+   "qty": 1,
+   "instances": [
+    "inst_081"
+   ],
+   "material": "6061-T6 铝合金（阳极氧化）",
+   "volume_cm3": 29.49,
+   "mass_g": 79.6,
+   "bbox_mm": [
+    80.0,
+    117.0,
+    5.0
+   ],
+   "thumb": "img/parts/Grip_Palm_Rear.jpg",
+   "file": "Grip_Palm_Rear.SLDPRT"
+  },
+  {
+   "part": "Grip_Rotor_Bridge",
+   "cn": "转子桥接块",
+   "group": "末端夹爪",
+   "qty": 1,
+   "instances": [
+    "inst_082"
+   ],
+   "material": "6061-T6 铝合金",
+   "volume_cm3": 18.14,
+   "mass_g": 49.0,
+   "bbox_mm": [
+    36.0,
+    16.0,
+    31.5
+   ],
+   "thumb": "img/parts/Grip_Rotor_Bridge.jpg",
+   "file": "Grip_Rotor_Bridge.SLDPRT"
+  },
+  {
+   "part": "Grip_Stator_Screw_Head",
+   "cn": "定子螺钉头",
+   "group": "末端夹爪",
+   "qty": 2,
+   "instances": [
+    "inst_083",
+    "inst_084"
+   ],
+   "material": "45 钢 / 轴承钢",
+   "volume_cm3": 0.13,
+   "mass_g": 1.0,
+   "bbox_mm": [
+    7.5,
+    7.5,
+    3.0
+   ],
+   "thumb": "img/parts/Grip_Stator_Screw_Head.jpg",
+   "file": "Grip_Stator_Screw_Head.SLDPRT"
+  },
+  {
+   "part": "Grip_Stator_Screw_Shank",
+   "cn": "定子螺钉杆",
+   "group": "末端夹爪",
+   "qty": 2,
+   "instances": [
+    "inst_085",
+    "inst_086"
+   ],
+   "material": "45 钢 / 轴承钢",
+   "volume_cm3": 0.17,
+   "mass_g": 1.3,
+   "bbox_mm": [
+    4.0,
+    4.0,
+    13.5
+   ],
+   "thumb": "img/parts/Grip_Stator_Screw_Shank.jpg",
+   "file": "Grip_Stator_Screw_Shank.SLDPRT"
+  },
+  {
+   "part": "Grip_Sync_Gear_m1_5_Z32",
+   "cn": "同步齿轮 m1.5 Z32",
+   "group": "末端夹爪",
+   "qty": 2,
+   "instances": [
+    "inst_087",
+    "inst_088"
+   ],
+   "material": "POM 齿轮",
+   "volume_cm3": 10.55,
+   "mass_g": 14.9,
+   "bbox_mm": [
+    51.0,
+    51.0,
+    6.0
+   ],
+   "thumb": "img/parts/Grip_Sync_Gear_m1_5_Z32.jpg",
+   "file": "Grip_Sync_Gear_m1_5_Z32.SLDPRT"
+  },
+  {
+   "part": "Grip_Wrist_Bearing",
+   "cn": "腕部轴承",
+   "group": "末端夹爪",
+   "qty": 2,
+   "instances": [
+    "inst_089",
+    "inst_090"
+   ],
+   "material": "45 钢 / 轴承钢",
+   "volume_cm3": 4.11,
+   "mass_g": 32.2,
+   "bbox_mm": [
+    34.0,
+    34.0,
+    7.0
+   ],
+   "thumb": "img/parts/Grip_Wrist_Bearing.jpg",
+   "file": "Grip_Wrist_Bearing.SLDPRT"
+  },
+  {
+   "part": "Grip_Wrist_Housing",
+   "cn": "腕部壳体",
+   "group": "末端夹爪",
+   "qty": 1,
+   "instances": [
+    "inst_091"
+   ],
+   "material": "PA12 / ABS",
+   "volume_cm3": 29.47,
+   "mass_g": 38.3,
+   "bbox_mm": [
+    46.0,
+    48.0,
+    34.0
+   ],
+   "thumb": "img/parts/Grip_Wrist_Housing.jpg",
+   "file": "Grip_Wrist_Housing.SLDPRT"
+  },
+  {
+   "part": "Grip_Wrist_Rotor",
+   "cn": "腕部转子",
+   "group": "末端夹爪",
+   "qty": 1,
+   "instances": [
+    "inst_092"
+   ],
+   "material": "6061-T6 铝合金",
+   "volume_cm3": 22.54,
+   "mass_g": 60.9,
+   "bbox_mm": [
+    40.0,
+    39.9,
+    48.0
+   ],
+   "thumb": "img/parts/Grip_Wrist_Rotor.jpg",
+   "file": "Grip_Wrist_Rotor.SLDPRT"
+  },
+  {
+   "part": "Grip_Wrist_Spacer",
+   "cn": "腕部隔圈",
+   "group": "末端夹爪",
+   "qty": 2,
+   "instances": [
+    "inst_093",
+    "inst_094"
+   ],
+   "material": "45 钢 / 轴承钢",
+   "volume_cm3": 0.63,
+   "mass_g": 5.0,
+   "bbox_mm": [
+    26.0,
+    26.0,
+    3.0
+   ],
+   "thumb": "img/parts/Grip_Wrist_Spacer.jpg",
+   "file": "Grip_Wrist_Spacer.SLDPRT"
+  }
+ ]
+}
